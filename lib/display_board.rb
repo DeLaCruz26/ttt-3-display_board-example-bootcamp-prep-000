@@ -10,3 +10,7 @@ end
 def display_board
   puts "   |   "
 end
+
+def display_board
+  puts "   |   |   "
+end
